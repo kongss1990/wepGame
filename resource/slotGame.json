@@ -1,0 +1,96 @@
+{
+	"groups":[
+	{
+		"keys":"bg_s,body_s,part1_s,part2_s,p1_s,p2_s,p3_s,p4_s,p5_s,p6_s,p7_s,p8_s,touch_s,mask,bgMp3_s,coin_s,head_s,end_s",
+		"name":"preloadSlot"
+	}],
+	"resources":[
+	{
+		"name":"bg_s",
+		"type":"image",
+		"url":"assets/slot/bg.jpg"
+	},
+	{
+		"name":"body_s",
+		"type":"image",
+		"url":"assets/slot/body.png"
+	},
+		{
+			"name":"part1_s",
+			"type":"image",
+			"url":"assets/slot/part1.png"
+		},
+		{
+			"name":"part2_s",
+			"type":"image",
+			"url":"assets/slot/part2.png"
+		},
+		{
+			"name":"p1_s",
+			"type":"image",
+			"url":"assets/slot/1.png"
+		},
+		{
+			"name":"p2_s",
+			"type":"image",
+			"url":"assets/slot/2.png"
+		},
+		{
+			"name":"p3_s",
+			"type":"image",
+			"url":"assets/slot/3.png"
+		},
+		{
+			"name":"p4_s",
+			"type":"image",
+			"url":"assets/slot/4.png"
+		},
+		{
+			"name":"p5_s",
+			"type":"image",
+			"url":"assets/slot/5.png"
+		},
+		{
+			"name":"p6_s",
+			"type":"image",
+			"url":"assets/slot/6.png"
+		},
+		{
+			"name":"p7_s",
+			"type":"image",
+			"url":"assets/slot/7.png"
+		},
+		{
+			"name":"p8_s",
+			"type":"image",
+			"url":"assets/slot/8.png"
+		},{
+			"name": "touch_s",
+			"type": "image",
+			"url": "assets/slot/touch.png"
+		},{
+			"name": "mask",
+			"type": "image",
+			"url": "assets/slot/mask.png"
+		},{
+			"name": "bgMp3_s",
+			"type": "sound",
+			"soundType": "music",
+			"url": "assets/slot/bg1.mp3"
+		},{
+			"name": "coin_s",
+			"type": "sound",
+			"soundType": "music",
+			"url": "assets/slot/coin.mp3"
+		},{
+			"name": "end_s",
+			"type": "sound",
+			"soundType": "music",
+			"url": "assets/slot/end.mp3"
+		},{
+			"name": "head_s",
+			"type": "sound",
+			"soundType": "music",
+			"url": "assets/slot/head.mp3"
+		}]
+}

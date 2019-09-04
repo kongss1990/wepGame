@@ -1,0 +1,99 @@
+{
+	"groups":[
+	{
+		"keys":"bg_f,body_f,btn_f,top_f,lightjson_f,light_f,n2json_f,n2_f,n1json_f,n1_f,recjson_f,rec_f,xzjson_f,xz_f,touch,fruitjson_f,fruit_f,bgMp3_f,coin_f,run_f,mask_f",
+		"name":"preloadFruit"
+	}],
+	"resources":[
+	{
+		"name":"bg_f",
+		"type":"image",
+		"url":"assets/fruit/bg.jpg"
+	},
+	{
+		"name":"body_f",
+		"type":"image",
+		"url":"assets/fruit/body.png"
+	},
+		{
+			"name":"btn_f",
+			"type":"image",
+			"url":"assets/fruit/btn.png"
+		},
+		{
+			"name":"top_f",
+			"type":"image",
+			"url":"assets/fruit/title.png"
+		},{
+			"name": "light_f",
+			"type": "image",
+			"url": "assets/fruit/light.png"
+		},{
+			"name": "lightjson_f",
+			"type": "json",
+			"url": "assets/fruit/light.json"
+		},{
+			"name": "n1_f",
+			"type": "image",
+			"url": "assets/fruit/num1.png"
+		},{
+			"name": "n1json_f",
+			"type": "json",
+			"url": "assets/fruit/num1.json"
+		},{
+			"name": "n2_f",
+			"type": "image",
+			"url": "assets/fruit/num2.png"
+		},{
+			"name": "n2json_f",
+			"type": "json",
+			"url": "assets/fruit/num2.json"
+		},{
+			"name": "rec_f",
+			"type": "image",
+			"url": "assets/fruit/rec.png"
+		},{
+			"name": "recjson_f",
+			"type": "json",
+			"url": "assets/fruit/rec.json"
+		},{
+			"name": "xz_f",
+			"type": "image",
+			"url": "assets/fruit/xz.png"
+		},{
+			"name": "xzjson_f",
+			"type": "json",
+			"url": "assets/fruit/xz.json"
+		},{
+			"name": "touch",
+			"type": "image",
+			"url": "assets/fruit/touch.png"
+		},{
+			"name": "fruit_f",
+			"type": "image",
+			"url": "assets/fruit/test.png"
+		},{
+			"name": "fruitjson_f",
+			"type": "json",
+			"url": "assets/fruit/test.json"
+		},{
+			"name": "bgMp3_f",
+			"type": "sound",
+			"soundType": "music",
+			"url": "assets/fruit/bg.mp3"
+		},{
+			"name": "coin_f",
+			"type": "sound",
+			"soundType": "music",
+			"url": "assets/fruit/coin.mp3"
+		},{
+			"name": "run_f",
+			"type": "sound",
+			"soundType": "music",
+			"url": "assets/fruit/run.mp3"
+		},{
+			"name": "mask_f",
+			"type": "image",
+			"url": "assets/fruit/mask.png"
+		}]
+}

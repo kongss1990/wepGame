@@ -1,0 +1,113 @@
+{
+	"groups":[
+	{
+		"keys":"bg_b,bottomBar_b,fish1,fish1Json,cannonJson,cannon,webJson,web,bulletJson,bullet,numJson,num,coinJson,coin,score,scoreJson,,fish2,fish2Json,fish3,fish3Json,fish4,fish4Json,bgMp3_b,b1,b2",
+		"name":"preloadFish"
+	}],
+	"resources":[
+	{
+		"name":"bg_b",
+		"type":"image",
+		"url":"assets/fish/bg.jpg"
+	},
+	{
+		"name":"bottomBar_b",
+		"type":"image",
+		"url":"assets/fish/bottom-bar.png"
+	},{
+			"name": "fish1",
+			"type": "image",
+			"url": "assets/fish/fish1.png"
+		},{
+			"name": "fish1Json",
+			"type": "json",
+			"url": "assets/fish/fish1.json"
+		},{
+			"name": "cannon",
+			"type": "image",
+			"url": "assets/fish/cannon.png"
+		},{
+			"name": "cannonJson",
+			"type": "json",
+			"url": "assets/fish/cannon.json"
+		},{
+			"name": "bullet",
+			"type": "image",
+			"url": "assets/fish/bullet.png"
+		},{
+			"name": "bulletJson",
+			"type": "json",
+			"url": "assets/fish/bullet.json"
+		},{
+			"name": "web",
+			"type": "image",
+			"url": "assets/fish/web.png"
+		},{
+			"name": "webJson",
+			"type": "json",
+			"url": "assets/fish/web.json"
+		},{
+			"name": "coin",
+			"type": "image",
+			"url": "assets/fish/coin.png"
+		},{
+			"name": "coinJson",
+			"type": "json",
+			"url": "assets/fish/coin.json"
+		},{
+			"name": "num",
+			"type": "image",
+			"url": "assets/fish/num.png"
+		},{
+			"name": "numJson",
+			"type": "json",
+			"url": "assets/fish/num.json"
+		},{
+			"name": "score",
+			"type": "image",
+			"url": "assets/fish/score.png"
+		},{
+			"name": "scoreJson",
+			"type": "json",
+			"url": "assets/fish/score.json"
+		},{
+			"name": "fish2",
+			"type": "image",
+			"url": "assets/fish/fish2.png"
+		},{
+			"name": "fish2Json",
+			"type": "json",
+			"url": "assets/fish/fish2.json"
+		},{
+			"name": "fish3",
+			"type": "image",
+			"url": "assets/fish/fish3.png"
+		},{
+			"name": "fish3Json",
+			"type": "json",
+			"url": "assets/fish/fish3.json"
+		},{
+			"name": "fish4",
+			"type": "image",
+			"url": "assets/fish/fish4.png"
+		},{
+			"name": "fish4Json",
+			"type": "json",
+			"url": "assets/fish/fish4.json"
+		},{
+			"name": "bgMp3_b",
+			"type": "sound",
+			"soundType": "music",
+			"url": "assets/fish/bg.mp3"
+		},{
+			"name": "b2",
+			"type": "sound",
+			"soundType": "music",
+			"url": "assets/fish/b1.mp3"
+		},{
+			"name": "b1",
+			"type": "sound",
+			"soundType": "music",
+			"url": "assets/fish/b2.mp3"
+		}]
+}
